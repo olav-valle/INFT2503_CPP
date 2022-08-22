@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++1y -Wall -Wextra  -rdynamic CMakeFiles/hello.dir/eksempel.cpp.o  -o hello 

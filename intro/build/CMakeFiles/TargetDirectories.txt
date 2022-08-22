@@ -1,0 +1,4 @@
+/mnt/c/Users/olav.valle/c++/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/olav.valle/c++/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/olav.valle/c++/build/CMakeFiles/hello2.dir
+/mnt/c/Users/olav.valle/c++/build/CMakeFiles/hello.dir
