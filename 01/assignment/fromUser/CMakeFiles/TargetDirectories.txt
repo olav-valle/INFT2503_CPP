@@ -1,0 +1,3 @@
+/home/mort/git/INFT2503_CPP/01/assignment/fromUser/CMakeFiles/fromUser.dir
+/home/mort/git/INFT2503_CPP/01/assignment/fromUser/CMakeFiles/edit_cache.dir
+/home/mort/git/INFT2503_CPP/01/assignment/fromUser/CMakeFiles/rebuild_cache.dir

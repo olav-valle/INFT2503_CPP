@@ -5,7 +5,8 @@
 
 using namespace std;
 
-void read_temperatures(double temperatures[], int length);
+// declaration
+void read_temperatures(double temperatures[3], int length);
 
 int main() {
   const int length = 5;
@@ -38,6 +39,7 @@ int main() {
   cout << "Antall over 20 er " << highCount << endl;
 }
 
+// definition
 void read_temperatures(double temperatures[], int length) {
   const char fileName[] = "temps.dat";
   ifstream file;
